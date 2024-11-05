@@ -17,7 +17,7 @@ Each week, the core team—Sanya and three other volunteers—leads discussions 
 In this repository, you’ll find the presentations Sanya has created and delivered during Data Power Hour sessions. Each presentation aims to address core skills, tools, and best practices for aspiring data analysts, data scientists, and data engineers.
 
 ### Available Presentations
-* [Project Planning](./ProjectPlanning.pdf): A guide to effectively planning and managing data projects, with a focus on structuring tasks, setting goals, and delivering results.
+* [Project Planning](./ProjectPlanning/ProjectPlanning.pdf): A guide to effectively planning and managing data projects, with a focus on structuring tasks, setting goals, and delivering results.
 
 Each presentation is a stepping stone, contributing not only to the growth of each participant but also to a stronger community of skilled, resilient women ready to make their mark in data.
 
